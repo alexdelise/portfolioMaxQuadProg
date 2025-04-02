@@ -15,59 +15,7 @@ It includes realistic financial constraints:
 
 ## 🧩 Model Formulation
 
-### Objective Functions
-
-Depending on the selected goal (`maxProfit` or `minRisk`), the model solves one of the following:
-
-**Maximize expected return:**
-$$
-\max \sum_{i=1}^N \mu_i x_i
-$$
-subject to a risk constraint:
-$$
-x^T \Sigma x \leq \text{{maxRisk}}^2
-$$
-
-**Minimize risk (variance):**
-$$
-\min x^T \Sigma x
-$$
-
----
-
-### Constraints
-For both objectives, the following constraints are applied:
-
-**Budget constraint:**
-$$
-\sum_{i=1}^N x_i = 1
-$$
-
-**Target return constraint (only for risk minimization):**
-$$
-\sum_{i=1}^N \mu_i x_i \geq R
-$$
-
-**Cardinality constraint (max number of selected assets):**
-$$
-\sum_{i=1}^N y_i \leq K
-$$
-
-**Sector exposure constraints:**
-For each sector \( s \):
-$$
-\sum_{i \in s} x_i \leq s_{\text{limit}}
-$$
-
-**Investment bounds per asset:**
-$$
-l_i y_i \leq x_i \leq m_i y_i
-$$
-
-**Binary selection variables:**
-$$
-y_i \in \{0, 1\}
-$$
+Please refer to modelDescription.pdf for a full description of the model and its components.
 
 ---
 
