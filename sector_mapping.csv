@@ -1,0 +1,241 @@
+,Sector
+AAPL,Technology
+MSFT,Technology
+NVDA,Technology
+ADBE,Technology
+CRM,Technology
+CSCO,Technology
+ORCL,Technology
+INTC,Technology
+AMD,Technology
+QCOM,Technology
+IBM,Technology
+TXN,Technology
+AVGO,Technology
+MU,Technology
+HPQ,Technology
+DELL,Technology
+WDAY,Technology
+ZM,Technology
+SNOW,Technology
+NOW,Technology
+SAP,Technology
+UBER,Technology
+SHOP,Technology
+PYPL,Technology
+TWLO,Technology
+DOCU,Technology
+FSLY,Technology
+NET,Technology
+CRWD,Technology
+PANW,Technology
+ZS,Technology
+OKTA,Technology
+TEAM,Technology
+MDB,Technology
+ESTC,Technology
+DDOG,Technology
+PLTR,Technology
+ASAN,Technology
+MNDY,Technology
+BOX,Technology
+ANSS,Technology
+CDNS,Technology
+SNPS,Technology
+AKAM,Technology
+CHKP,Technology
+FTNT,Technology
+CYBR,Technology
+JNJ,Healthcare
+PFE,Healthcare
+MRK,Healthcare
+ABBV,Healthcare
+LLY,Healthcare
+TMO,Healthcare
+BMY,Healthcare
+GILD,Healthcare
+CVS,Healthcare
+UNH,Healthcare
+AMGN,Healthcare
+BIIB,Healthcare
+REGN,Healthcare
+VRTX,Healthcare
+MDT,Healthcare
+ISRG,Healthcare
+SYK,Healthcare
+BDX,Healthcare
+ZBH,Healthcare
+HCA,Healthcare
+CNC,Healthcare
+CI,Healthcare
+HUM,Healthcare
+MOH,Healthcare
+ELV,Healthcare
+MCK,Healthcare
+CAH,Healthcare
+DGX,Healthcare
+LH,Healthcare
+IQV,Healthcare
+MTD,Healthcare
+WST,Healthcare
+STE,Healthcare
+HSIC,Healthcare
+XRAY,Healthcare
+ALGN,Healthcare
+HOLX,Healthcare
+IDXX,Healthcare
+BIO,Healthcare
+TECH,Healthcare
+QGEN,Healthcare
+RGEN,Healthcare
+BAX,Healthcare
+BHC,Healthcare
+UHS,Healthcare
+PINC,Healthcare
+OPCH,Healthcare
+AMED,Healthcare
+EHC,Healthcare
+JPM,Financials
+BAC,Financials
+WFC,Financials
+GS,Financials
+MS,Financials
+AXP,Financials
+C,Financials
+BLK,Financials
+SCHW,Financials
+SPGI,Financials
+USB,Financials
+PNC,Financials
+TFC,Financials
+BK,Financials
+STT,Financials
+AIG,Financials
+PRU,Financials
+MET,Financials
+ALL,Financials
+TRV,Financials
+CB,Financials
+CINF,Financials
+PGR,Financials
+LNC,Financials
+UNM,Financials
+AFL,Financials
+HIG,Financials
+CMA,Financials
+RF,Financials
+FITB,Financials
+KEY,Financials
+MTB,Financials
+HBAN,Financials
+ZION,Financials
+CFG,Financials
+ALLY,Financials
+NTRS,Financials
+BEN,Financials
+TROW,Financials
+AMP,Financials
+LPLA,Financials
+IVZ,Financials
+EVR,Financials
+PJT,Financials
+MC,Financials
+LAZ,Financials
+BKD,Financials
+FDS,Financials
+BA,Industrials
+HON,Industrials
+UPS,Industrials
+CAT,Industrials
+DE,Industrials
+LMT,Industrials
+MMM,Industrials
+GE,Industrials
+NOC,Industrials
+RTX,Industrials
+GD,Industrials
+EMR,Industrials
+ETN,Industrials
+PCAR,Industrials
+FAST,Industrials
+FLS,Industrials
+IR,Industrials
+JCI,Industrials
+PH,Industrials
+ROK,Industrials
+DOV,Industrials
+XYL,Industrials
+AOS,Industrials
+PNR,Industrials
+ITW,Industrials
+SWK,Industrials
+SNA,Industrials
+CMI,Industrials
+DHR,Industrials
+FMC,Industrials
+GWW,Industrials
+IEX,Industrials
+LECO,Industrials
+MAS,Industrials
+PNW,Industrials
+PWR,Industrials
+RSG,Industrials
+VMC,Industrials
+WAB,Industrials
+WM,Industrials
+WTS,Industrials
+CSX,Industrials
+NSC,Industrials
+UNP,Industrials
+JBHT,Industrials
+ODFL,Industrials
+CHRW,Industrials
+EXP,Industrials
+MLM,Industrials
+AMZN,Consumer Discretionary
+TSLA,Consumer Discretionary
+HD,Consumer Discretionary
+MCD,Consumer Discretionary
+SBUX,Consumer Discretionary
+LOW,Consumer Discretionary
+NKE,Consumer Discretionary
+BKNG,Consumer Discretionary
+TGT,Consumer Discretionary
+ROST,Consumer Discretionary
+TJX,Consumer Discretionary
+MAR,Consumer Discretionary
+HLT,Consumer Discretionary
+YUM,Consumer Discretionary
+DG,Consumer Discretionary
+F,Consumer Discretionary
+GM,Consumer Discretionary
+EBAY,Consumer Discretionary
+ULTA,Consumer Discretionary
+LULU,Consumer Discretionary
+ORLY,Consumer Discretionary
+AZO,Consumer Discretionary
+AAP,Consumer Discretionary
+BBY,Consumer Discretionary
+KSS,Consumer Discretionary
+JWN,Consumer Discretionary
+M,Consumer Discretionary
+HAS,Consumer Discretionary
+MAT,Consumer Discretionary
+LEG,Consumer Discretionary
+WHR,Consumer Discretionary
+POOL,Consumer Discretionary
+WSM,Consumer Discretionary
+RH,Consumer Discretionary
+TPR,Consumer Discretionary
+VFC,Consumer Discretionary
+PVH,Consumer Discretionary
+RL,Consumer Discretionary
+HBI,Consumer Discretionary
+CROX,Consumer Discretionary
+DECK,Consumer Discretionary
+SKX,Consumer Discretionary
+COLM,Consumer Discretionary
+GIL,Consumer Discretionary
+LEVI,Consumer Discretionary
+MOV,Consumer Discretionary
+SHOO,Consumer Discretionary
